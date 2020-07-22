@@ -1,0 +1,44 @@
+@charset "utf-8";
+	
+	@media(max-width:768px)
+	{
+		.heading{
+		}
+
+		.total_show h4{
+			font-size: 18px;
+		}
+
+		.total_show h5{
+			font-size: 14px;
+		}
+	}
+
+	@media(max-width:576px)
+	{
+		table thead{
+			font-size: 13px;
+		}
+
+		table tbody{
+			font-size: 14px;
+		}
+
+		.table_responsive{
+			overflow: scroll;
+		}
+
+		.heading{
+			font-size: 18px;
+		}
+
+		.total_show h4{
+			font-size: 13px;
+		}
+
+		.total_show h5{
+			font-size: 14px;
+		}
+
+
+	}

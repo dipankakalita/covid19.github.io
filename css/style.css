@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+.my-bg{
+	background-color: #6D0EB1;
+}
+
+.my-bg-1{
+	background-color: #4CAF50;
+}
+
+.text-white{
+	color: #fff;
+}
+
+table thead{
+	font-family: 'Ubuntu', sans-serif;
+	letter-spacing: 1px;
+}
+
+table tbody{
+	font-family: 'PT Sans', sans-serif;
+}
+
+.heading{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+	color: #6D0EB1;
+}
+
+.total_show h4{
+	color: #6D0EB1;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 21px;
+}
+
+.total_show h5{
+	color: #4CAF50;
+	font-family: 'PT Sans', sans-serif;
+}
+
+
+
+
