@@ -56,25 +56,25 @@
 			<div
 				class="col-lg-2 col-md-4 col-sm-4 col-4 total_show shadow rounded py-sm-3 py-2 px-sm-3 px-2 mx-lg-4 mx-sm-3 mx-3 my-sm-2 my-2 wow animated fadeInLeft">
 				<h4 class="font-weight-bold text-info">Confirmed</h4>
-				<h5 class="font-weight-bold"><?php echo $allreport['statewise'][13]['confirmed'];?></h5>
+				<h5 class="font-weight-bold"><?php echo $allreport['statewise'][11]['confirmed'];?></h5>
 			</div>
 
 			<div
 				class="col-lg-2 col-md-4 col-sm-4 col-4 total_show shadow rounded py-sm-3 py-2 px-sm-3 px-2 mx-lg-4 mx-sm-3 mx-3 my-sm-2 my-2 wow animated fadeInDown">
 				<h4 class="font-weight-bold text-warning">Active</h4>
-				<h5 class="font-weight-bold"><?php echo $allreport['statewise'][13]['active'];?></h5>
+				<h5 class="font-weight-bold"><?php echo $allreport['statewise'][11]['active'];?></h5>
 			</div>
 
 			<div
 				class="col-lg-2 col-md-4 col-sm-4 col-4 total_show shadow rounded py-sm-3 py-2 px-sm-3 px-2 mx-lg-4 mx-sm-3 mx-3 my-sm-2 my-2 wow animated fadeInUp">
 				<h4 class="font-weight-bold text-success">Recovered</h4>
-				<h5 class="font-weight-bold"><?php echo $allreport['statewise'][13]['recovered'];?></h5>
+				<h5 class="font-weight-bold"><?php echo $allreport['statewise'][11]['recovered'];?></h5>
 			</div>
 
 			<div
 				class="col-lg-2 col-md-4 col-sm-4 col-4 total_show shadow rounded py-sm-3 py-2 px-sm-3 px-2 mx-lg-4 mx-sm-3 mx-3 my-sm-2 my-2 wow animated fadeInRight">
 				<h4 class="font-weight-bold text-danger">Deaths</h4>
-				<h5 class="font-weight-bold"><?php echo $allreport['statewise'][13]['deaths'];?></h5>
+				<h5 class="font-weight-bold"><?php echo $allreport['statewise'][11]['deaths'];?></h5>
 			</div>
 		</div>
 	</div>
